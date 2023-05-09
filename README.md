@@ -7,3 +7,16 @@
 
 - React
 - Vite
+
+## Run locally
+
+```
+$ clone this repository
+
+$ enter the folder
+
+$ npm i
+
+$ npm run dev
+
+```
